@@ -1,0 +1,23 @@
+{
+    "name": "jspacker",
+    "title": "jspacker",
+    "description": "支持commonjs类模块化开发项目的静态打包",
+    "version": "0.0.1",
+    "homepage": "",
+    "author": {
+        "name": "KnightWu"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wulijian/jspacker.git"
+    },
+    "bugs": {
+        "url": "XXX"
+    },
+    "dependencies": {
+        "uglify-js": "latest",
+        "mocha": "latest",
+        "optimist": "latest"
+    },
+    "keywords": ["commonJs", "合并压缩"]
+}
