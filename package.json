@@ -14,6 +14,7 @@
     "bugs": {
         "url": "XXX"
     },
+    "update tip": "增加对seajs 配置文件的支持，现支持配置文件的 alias，paths，和 base",
     "dependencies": {
         "uglify-js": "latest",
         "mocha": "latest",
