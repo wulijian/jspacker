@@ -7,6 +7,9 @@
     "author": {
         "name": "KnightWu"
     },
+    "bin": {
+        "jsp": "./bin/jsp"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/wulijian/jspacker.git"
