@@ -2,7 +2,7 @@
     "name": "jspacker",
     "title": "jspacker",
     "description": "支持commonjs类模块化开发项目的静态打包",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "homepage": "",
     "author": {
         "name": "KnightWu"
@@ -21,6 +21,7 @@
     "dependencies": {
         "uglify-js": "latest",
         "mocha": "latest",
+        "consoleplusplus": "latest",
         "optimist": "latest"
     },
     "keywords": ["commonJs", "合并压缩"]
