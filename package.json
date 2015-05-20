@@ -2,7 +2,7 @@
     "name": "jspacker",
     "title": "jspacker",
     "description": "支持commonjs类模块化开发项目的静态打包",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "homepage": "",
     "author": {
         "name": "KnightWu"
